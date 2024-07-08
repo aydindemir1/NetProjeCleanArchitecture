@@ -13,3 +13,7 @@ Uyguladığım bazı best pratikler :
 9. Pagination ve Filtering
 10. Use DTOs ( Data Transfer Objects )
 11. RESTful Api Design
+
+Projemizi Clean Architecture ile Yeniden Yazma:
+
+Daha önce yapmış olduğumuz projeyi, Clean Architecture prensiplerine uygun olarak baştan sona yeniden yazınız. Clean Architecture, kodun daha esnek, sürdürülebilir ve test edilebilir olmasını sağlar. 
